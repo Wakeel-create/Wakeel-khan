@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wakeel-khan
-- 👀 I’m interested in ...Artifical Intelligence; Machine Learning, Deep Learning, Natural Language Pre-Processing and Neural Networks
+- 👀 I’m interested in ...Artifical Intelligence; Machine Learning, Deep Learning, Natural Language processing, Generative AI and Python Developer
 - 🌱 I’m currently learning ...Artifical Intelligence
 - 💞️ I’m looking to collaborate on ... ...working with clients in AI, contributing to open-source projects, and developing innovative AI solutions
 - 📫 How to reach me ...wakilkhn4697@gmail.com
